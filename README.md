@@ -5,11 +5,11 @@ eth钱包破解工具
 
 # 控制cpu
 ```
-./linux -cpu 2
+./linux --cpu 2
 
-./macos -cpu 2
+./macos --cpu 2
 
-windows.exe -cpu 2
+windows.exe --cpu 2
 ```
 
 在addresses/addresses.csv
