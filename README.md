@@ -4,13 +4,13 @@ eth钱包破解工具
 破解eth钱包 golang开发
 
 # 控制cpu
-~~
+```
 ./linux -cpu 2
 
 ./macos -cpu 2
 
 windows.exe -cpu 2
-~~
+```
 
 在addresses/addresses.csv
 填写eth钱包地址一行一个
